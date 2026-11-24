@@ -1,0 +1,1 @@
+MY name is Ashique Billa Mondal.This is my Machine Learning Project. this is final lab project.This project guide my lab teacher Dr.SreeKumar Biswas(Assistent professor of ML).And my project title is "MACHINE LEARNING-BASED ORGANIC FARMING SUITABILITY PREDICTION".
